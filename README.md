@@ -3,7 +3,7 @@
 ## Overview:
 This project focuses on building an end-to-end data engineering pipeline using Databricks, targeting the refinement of raw data into a consumable format ready for analysis and visualization. The pipeline follows the ETL (Extract, Transform, Load) process to convert raw data into structured, refined data, progressing from bronze to silver and gold layers.
 
-![Project Flow](https://github.com/DhaneshSarpale/Databricks-IoT/raw/main/Project%20Flow.jpg)
+![Pipeline Flow](https://github.com/DhaneshSarpale/Databricks-IoT/blob/main/Pipeline%20Flow.jpg)
 
 ## Datasets:
 - **`userdata` Dataset:** Contains essential information about users' health and lifestyle, including demographics and health indicators.
