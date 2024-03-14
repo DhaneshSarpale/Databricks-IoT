@@ -5,18 +5,17 @@ This project focuses on building an end-to-end data engineering pipeline using D
 
 ![Pipeline Flow](https://github.com/DhaneshSarpale/Databricks-IoT/blob/main/Pipeline%20Flow.jpg)
 
-[Link to Power BI Report](https://app.powerbi.com/view?r=eyJrIjoiNzRlOWMyYzQtNjg0MC00Yzg4LWEwNDItYTE3NDU5ODFkMWI2IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9&pageName=ReportSection)
-- This link directs you to a Power BI report showcasing visualizations and insights derived from the provided dataset. Explore various data-driven charts and graphs for deeper analysis.
-
-[Link to Databricks Notebook](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/7740050962745411/2007676982286802/2016063543754681/latest.html)
-- Access a Databricks notebook containing code and analysis related to the project's data processing pipeline. Explore data transformations, ETL processes, and more within the Databricks environment.
+[Link to Databricks Dashboard](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/7740050962745411/2007676982286802/2016063543754681/latest.html)
+- Access a Databricks Dashboard 
 
 [Link to Databricks Notebook](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/7771030287757023/1693771869421258/2141620800104381/latest.html)
 - This link leads to Databricks notebook, publicly available, providing additional insights and analyses. Dive deeper into the project.
 
 [Link to Delta Lake Image](https://github.com/DhaneshSarpale/Databricks-IoT/blob/main/src/img/Screenshot%202024-03-14%20180121.png)
-- View an image depicting Delta Lake architecture, an integral part of the project's data processing infrastructure. 
+- View an image depicting Delta Lake architecture, an integral part of the project's data processing infrastructure.
 
+[Link to Power BI Report](https://app.powerbi.com/view?r=eyJrIjoiNzRlOWMyYzQtNjg0MC00Yzg4LWEwNDItYTE3NDU5ODFkMWI2IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9&pageName=ReportSection)
+- This link directs you to a Power BI report showcasing visualizations and insights derived from the provided dataset. Explore various data-driven charts and graphs for deeper analysis.
 
 ## Datasets:
 - **`userdata` Dataset:** Contains essential information about users' health and lifestyle, including demographics and health indicators.
